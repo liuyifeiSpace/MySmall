@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "bundles": [
+    {
+      "uri": "contact",
+      "pkg": "com.ht.mysmall.app.contact"
+    },
+    {
+      "uri": "main",
+      "pkg": "com.ht.mysmall.app.main"
+    },
+    {
+      "uri": "message",
+      "pkg": "com.ht.mysmall.app.message"
+    },
+    {
+      "uri": "mine",
+      "pkg": "com.ht.mysmall.app.mine"
+    }
+  ]
+}
